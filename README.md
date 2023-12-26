@@ -1,6 +1,6 @@
 # (WIP) AIMW: AI Middleware
 
-A runtime-independent Rust Library for your favorite AI Services like OpenAI. 
+A runtime-independent Rust Library for your favorite AI services like OpenAI. 
 
 ## There is already a Rust Library for OpenAI, why another one?
 
