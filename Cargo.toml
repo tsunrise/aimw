@@ -1,10 +1,5 @@
-[package]
-name = "aimw"
-version = "0.0.0"
-edition = "2021"
-description = "A runtime-independent Rust Library for your favorite AI Services like OpenAI. "
-license = "MIT"
+[workspace]
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]
+members = [
+    "aimw"
+]
